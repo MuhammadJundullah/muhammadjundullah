@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MuhammadJundullah
-- 👀 I’m interested in Web programming and Data Science
-- 🌱 I’m currently learning git for version control 
+- Hi, I’m @MuhammadJundullah
+- I’m interested in Web programming and Data Science
+- I’m currently learning git for version control 
 
 
 <!---
