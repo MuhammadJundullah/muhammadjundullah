@@ -1,4 +1,4 @@
-Hi, I’m @MuhammadJundullah, i’m interested in Web Programming and Data Science, i’m currently learning CSS framework and git for Version Control
+Hi, I’m @MuhammadJundullah, i’m interested in Web Programming and Data Science, i’m currently learning CSS frameworks and Git for Version Control
 
 
 <!---
