@@ -1,4 +1,4 @@
-Hi, I’m @MuhammadJundullah, i’m interested in Web Programming and Data Science, i’m currently learning Bootstrap 5 framework and Git for Version Control
+Hi, I’m @MuhammadJundullah, i’m interested in Web Programming, i’m currently learning Bootstrap 5 framework and Git for Version Control
 
 
 <!---
